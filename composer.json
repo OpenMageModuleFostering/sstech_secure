@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/SSTech_Secure",
+    "type": "magento-module",
+    "license": "Open-Source-License",
+    "homepage": "",
+    "description": "Extension which will allow to Seecure and Restrict User by adding the IP location",
+    "authors": [
+    {
+        "name": "SSTech",
+        "email": "sanynaresh@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
