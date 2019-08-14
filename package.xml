@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package>
     <name>SSTech_Secure</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <stability>stable</stability>
     <license>Open Source License</license>
     <channel>community</channel>
     <extends/>
     <summary>Extension which will allow to Seecure and Restrict User by adding the IP location</summary>
     <description>Extension which will allow to Seecure and Restrict User by adding the IP location</description>
-    <notes>stable release version</notes>
+    <notes>Update the structure of blocking IP </notes>
     <authors><author><name>SSTech</name><user>SSTech</user><email>sanynaresh@gmail.com</email></author></authors>
-    <date>2014-08-30</date>
-    <time>08:17:26</time>
-    <contents><target name="mageetc"><dir name="modules"><file name="SSTech_Secure.xml" hash="5d19b83b03d6b149697ef1dadb14fa96"/></dir></target><target name="magecommunity"><dir name="SSTech"><dir name="Secure"><dir name="Model"><file name="Observer.php" hash="c92a19096fb2a945f37e9b8fe6165921"/></dir><dir name="etc"><file name="config.xml" hash="710b316d00f14f7fe47bebcf8e9bbf7c"/><file name="system.xml" hash="6b38f5bfa84eb8e76b6936a17fb046d0"/></dir></dir></dir></target></contents>
+    <date>2014-09-10</date>
+    <time>17:01:20</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="SSTech_Secure.xml" hash="5d19b83b03d6b149697ef1dadb14fa96"/></dir></target><target name="magecommunity"><dir name="SSTech"><dir name="Secure"><dir name="Model"><file name="Observer.php" hash="c92a19096fb2a945f37e9b8fe6165921"/></dir><dir name="etc"><file name="config.xml" hash="e8dcd8815327aff4de5ddc4f2e9a31ce"/><file name="system.xml" hash="6b38f5bfa84eb8e76b6936a17fb046d0"/></dir></dir></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
 </package>

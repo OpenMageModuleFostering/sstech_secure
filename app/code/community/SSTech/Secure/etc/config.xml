@@ -2,7 +2,7 @@
 <config>
 	<modules>
 		<SSTech_Secure>
-			<version>1.0.0</version>
+			<version>1.0.1</version>
 		</SSTech_Secure>
 	</modules>
 	<global>
